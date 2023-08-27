@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @deswarde
-- 👀 I’m interested in data governance and digital transformation
+- I’m @deswarde
+- I architect dat governance and privacy solutions focusing on the Microsoft technology stack.
 
 <!---
 deswarde/deswarde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
